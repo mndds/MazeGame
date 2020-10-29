@@ -5,7 +5,7 @@
 
 class GameManager
 {
-public:
+public: 
 
 private:
 
